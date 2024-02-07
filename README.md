@@ -19,6 +19,10 @@ cd && cd ./install && sudo ./install_instancia
 ```
 
 
+Obs: esta instalação já esta com a pasta public
+cd /home/deploy/empresa1/frontend
+npm run build
+
 ## Para Instalação você precisa:
 
 Uma VPS Ubuntu 20.04 (Configuração recomendada: 3 VCPU's + 4 GB RAM)
