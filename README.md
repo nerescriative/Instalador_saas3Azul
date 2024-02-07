@@ -20,7 +20,7 @@ cd && cd ./install && sudo ./install_instancia
 
 
 Obs: esta instalação já esta com a pasta public
-cd /home/deploy/empresa1/frontend
+cd /home/deploy/empresa1/frontend |
 npm run build
 
 ## Para Instalação você precisa:
