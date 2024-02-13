@@ -10,7 +10,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 
 ```bash
-sudo apt install -y git && git clone https://github.com/canalvemfazer/instalador install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/nerescriative/Instalador_saas3Azul install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ```
  SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
